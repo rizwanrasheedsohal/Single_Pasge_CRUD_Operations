@@ -1,0 +1,13 @@
+.recipie {
+    border: 2px solid black;
+    margin-bottom: 1%;
+}
+
+#add {
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin-right: 10px;
+    margin-top: 10px;
+}
